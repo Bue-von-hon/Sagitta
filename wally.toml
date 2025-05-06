@@ -1,6 +1,6 @@
 [package]
-name = "1axen/secure-cast"
-version = "1.1.5"
+name = "Bue-von-hon/Sagitta"
+version = "1.0.0"
 description = "A server-authoritative projectile system for ROBLOX."
 license = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
